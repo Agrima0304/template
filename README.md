@@ -19,9 +19,7 @@ Managing a resume on Google Docs or Word is complex and changing formatting or a
 
 This template is an effort to ease the process of resume building for freshers to build quality resumes easily.
 
-# Showcase
 
-![Untitled](Resume%20Template%2041e51fc8ec6f48b288435df4986362ca/Untitled.png)
 
 # **Quick start**
 
